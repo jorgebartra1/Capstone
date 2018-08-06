@@ -23,9 +23,9 @@ Machine Learning is been used in all types of business. Non-profit organizations
 - sklearn (https://github.com/scikit-learn/scikit-learn)
 
 #### Software
--SQL Server
--Tableau
--SSIS
+- SQL Server
+- Tableau
+- SSIS
 
 #### Data is expected to be in the 'data' directory and contain the following files:
 - CompleteDataset.xlxs - Full Dataset from CENSUS
